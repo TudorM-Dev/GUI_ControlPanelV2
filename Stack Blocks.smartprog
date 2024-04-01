@@ -53,3 +53,5 @@ Position Register 2 Element 3 = ++14
 ##move to home position
 Move R [*] J1 0 J2 0 J3 0 J4 0 J5 90 J6 0 J7 0 J8 0 J9 0 Sp 40 Ac 20 Dc 20 Rm 100 $ N
 Jump Tab-2
+Wait Time = 4
+If On Jump - Input-A1 Jump to Tab-3
